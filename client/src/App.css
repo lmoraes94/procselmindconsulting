@@ -1,0 +1,42 @@
+.container {
+    width: 200px;
+    height: max-content;
+    margin: auto;
+    background-color: rgba(173, 167, 187, 0.623);
+    padding: 20px 15px;
+    margin-top: 120px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    box-shadow: 15px 12px rgba(0,0,0,0.7);
+}
+
+h1 {
+    margin: 1;
+    text-align: left;
+    margin-bottom: 15px;
+
+}
+
+.login-form{
+    padding: 15px;
+    }
+
+.form-field{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.form-error{
+    display: block;
+    color: rgb(237, 67,55);
+    font-size: 0.9em;
+    font-weight: 400;
+}
+
+.button {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  padding: 10px 15px;  
+
+}
